@@ -72,3 +72,14 @@ The current price is 3 SOL and will increase as new features are added.
 For more information or to make a purchase, contact us on Telegram at [https://t.me/CALLERXX][https://t.me/PumpBundleProject].
 
 https://youtu.be/ol8hvP7QpAY
+
+## 🔮 Upcoming Features
+
+- 🔑 Wallet Generator: Generate wallets along with their private keys.
+- 🎯 Snipe Feature: Snipe tokens using up to 24 wallets simultaneously.
+- 💸 Auto-Fund Wallets: Automatically fund all wallets from a single wallet and withdraw funds from all wallets back to one.
+- 📊 Volume Generator: Generate transaction volume efficiently.
+
+## 🔄 Continuous Development
+
+This tool is under constant development. All updates will be published here.
